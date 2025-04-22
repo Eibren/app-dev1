@@ -11,5 +11,3 @@
 1. Eleven
 2. Dustin
 3. Steve
-
-![Stranger Things](https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_4.jpg)
